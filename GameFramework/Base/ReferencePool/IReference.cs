@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GameFramework.Base.ReferencePool
 {
-    internal interface IReference
+    public interface IReference
     {
+        // 归还到池子前调用，清空数据
+        void Clear();
     }
 }
