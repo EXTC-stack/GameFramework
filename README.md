@@ -15,7 +15,7 @@
 
 ## 项目介绍视频
 
-📺 [项目介绍视频](在此处粘贴你的 B站 / YouTube 链接)
+https://youtu.be/oa7lDZz-eA4
 
 ## 技术栈与架构
 
